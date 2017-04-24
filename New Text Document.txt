@@ -1,0 +1,1 @@
+sonar.projectKey=org.sonarqube:android-simple-sq-scanner
