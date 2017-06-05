@@ -1,0 +1,15 @@
+{
+  "name": "com.springboot.rest.api",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
